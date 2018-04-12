@@ -1,0 +1,28 @@
+#Header{
+border: solid 8px black;
+width: 500px;
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+margin-buttom: 10px;
+}
+
+#Content{
+border: solid 8px black;
+width: 700px;
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+margin-buttom: 10px;
+}
+
+#LeftNav{
+border: solid 8px black;
+width: 400px;
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+margin-buttom: 10px;
+float:left;
+}
+
